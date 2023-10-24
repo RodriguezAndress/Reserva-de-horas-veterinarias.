@@ -1,4 +1,4 @@
-//Campops del formulario
+//Campos del formulario
 let DB;
 const mascotaInput = document.querySelector('#mascota');
 const propietarioInput = document.querySelector('#propietario');
